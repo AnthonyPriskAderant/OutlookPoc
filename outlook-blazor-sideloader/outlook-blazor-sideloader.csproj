@@ -24,7 +24,7 @@
     <CoreWebProject>..\outlook-blazor-add-in\BlazorAddIn.csproj</CoreWebProject>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
-    <ActivePublishProfile>StaticWebApp</ActivePublishProfile>
+    <ActivePublishProfile>Debug</ActivePublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
