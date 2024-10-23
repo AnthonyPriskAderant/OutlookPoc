@@ -11,9 +11,9 @@ namespace BlazorAddIn.Pages {
 
 		public MailRead? MailReadData { get; set; }
 
-		//public async Task CallCollections() {
-
-		//}
+		public void CallCollections() {
+			Console.WriteLine($"Expert.razor.cs (CallCollections): Call Collections button was clicked.");
+		}
 
 	}
 }
